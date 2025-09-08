@@ -2,7 +2,7 @@
 
 Um console de jogos retrô completo construído com ESP32 e display OLED, featuring 11 jogos clássicos, animação de boot cyberpunk e atualização OTA sem fio.
 
-![Mini Console Demo]([https://via.placeholder.com/600x300/000000/FFFFFF?text=MINI+CONSOLE](https://github.com/Joao-vitor-santana/miniConsole_1.2/blob/main/MINI_console_montado.jpg))
+![Mini Console Demo](<img width="1600" height="1136" alt="image" src="https://github.com/user-attachments/assets/82487f8d-c632-46f7-88fb-be4bb50fa5cd" />)
 
 ## 🚀 Características Principais
 
